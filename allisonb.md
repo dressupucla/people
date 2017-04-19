@@ -4,3 +4,4 @@ Allison is Librarian for Advanced Research and Engagement, part of the Humanitie
 
 On GitHub: https://github.com/arbenedetti
 
+![] (.docs/01-florida-manatee-670.jpg)
