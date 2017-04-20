@@ -1,6 +1,7 @@
-### Allison Benedetti
+### Peggy Alexander
 
-Allison is Librarian for Advanced Research and Engagement, part of the Humanities and Social Sciences team at UCLA Library. She manages the drop-in research help services in YRL, provides consultations for students and faculty, and is the liaison to the Urban Planning department. She also conducts research on user-centered services for libraries, as well as support needs for graduate students. Before coming to UCLA, she worked in architecture libraries and with art historians in museum education. She likes sports and is currently learning to dance salsa.
+Peggy Alexander is the Curator for Performing Arts Special Collections. On 
+April 17th, Norman Lear told her a great story about waiting for an autograph from Sophie Tucker, and watching her spit a huge ball of phlegm inches from his foot. He decided not to get the autograph.
 
 On GitHub: https://github.com/arbenedetti
 
