@@ -1,11 +1,11 @@
-### Dawn Childress
+### Peggy Alexander
 
-*Instructor*
+*student*
 
-Dawn is Librarian for Digital Collections and Scholarship at UCLA’s Digital Library Program interested in digital libraries; digital and analog approaches to bibliography, book history, and archival studies; digital scholarly editing; and translation. She also regularly consult and collaborate with faculty and students on projects related to digital scholarship and pedagogy. Her background is in German literature, philosophy, book history, and textual studies. When not occupied with the above or tinkering with things digital, she enjoy printmaking and translating German poetry.
+Peggy is the Curator for Performing Arts Special Collections at UCLA Library Special Collections. Norman Lear shared a story about waiting for Sophie Tucker at the stage door for an autograph that didn't turn out as expected.
 
-On GitHub: https://github.com/kirschbombe
+On GitHub: https://github.com/pegalexander
 
-Website: http://dawnchildress.com
 
-![](./docs/emu-smiling_12607_600x450.jpg)
+
+
